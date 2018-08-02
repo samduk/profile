@@ -1,0 +1,28 @@
+Single instance
+isAuth
+singleton class
+if a instance is returning something your variable should be private
+
+
+***********************************************************
+MySql Indexing
+Primary
+Uniqueue
+compound  (eg fname and lname)
+  select * from user
+  Force index a
+full text indexing
+
+
+  where a = "fname"
+  where a="fname" & B ="lname";
+spatial index
+Index
+
+Optimize your mysql database
+
+Amazon Redshift
+
+ACID  (Durability) Transactional database
+
+Cluster
